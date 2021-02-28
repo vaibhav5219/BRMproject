@@ -1,0 +1,51 @@
+#header{
+  background-color: #329A97;
+  padding-bottom:20px;
+  text-align: center;
+}
+#header h1{
+  text-align: center;
+  color:#F4FA3C;
+  letter-spacing: 7px;
+  text-decoration: underline;
+}
+
+#nav{
+  width: 60%;
+  margin:auto;
+}
+#nav a{
+  background-color: #F4FA3C;
+  width:150px;
+  border:solid 2px;
+  font-size: 20px;
+  text-decoration: none;
+  color:#329A97;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+#nav a:hover{
+  background-color: white;
+  color:navy;
+  opacity: 0.5;
+}
+#main{
+	text-align:center;
+	margin-top:10px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#view_table
+{
+	border-style:solid;
+	border-color: gray;
+	width:500px;
+	margin-left:auto;
+	margin-right:auto;
+}
+#view_table tr{
+	background-color:pink;
+}
+#view_table{
+	padding:5px;
+}
